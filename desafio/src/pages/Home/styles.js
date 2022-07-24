@@ -1,11 +1,5 @@
-import styled from 'styled-components';
-
-export const Container = styled.div`
+import styled from "styled-components";
+export const HomeContainer = styled.div`
   padding: 0 30px;
 `;
-
-export const BoxProducts = styled.div`
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-`;
+export const ProductsHeader = styled.header``;
